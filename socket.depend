@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533105535 source:d:\c++\socket\main.c
+	<stdio.h>
+	<fcntl.h>
+	<pthread.h>
+
